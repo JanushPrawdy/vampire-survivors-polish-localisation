@@ -87,6 +87,11 @@
         "charName": "萝",
         "surname": "卜豆",
         "description": "每关增加1% 持续时间。"
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -189,6 +194,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -273,6 +283,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Commence avec un niveau supplémentaire.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -351,6 +366,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -447,6 +467,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -525,6 +550,11 @@
         "charName": "포페아",
         "surname": "페코리나",
         "description": "매 레벨마다 무기의 지속시간이 1%씩 증가합니다."
+      },
+      "CRISTINA": {
+        "description": "시작시 추가 레벨을 획득합니다.",
+        "surname": "다베인",
+        "charName": "크리스틴"
       }
     }
   },
@@ -609,6 +639,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Zdobywa +1% czasu trwania co każdy poziom."
+      },
+      "CRISTINA": {
+        "description": "Zaczyna z 1 dodatkowym poziomem.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -693,6 +728,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },
@@ -777,6 +817,11 @@
         "charName": "Поппея",
         "surname": "Пекорина",
         "description": "Прибавляет +1% к Сроку  с каждым уровнем."
+      },
+      "CRISTINA": {
+        "description": "Начинает с 1 доп. уровнем.",
+        "surname": "Давейн",
+        "charName": "Кристина"
       }
     }
   },
@@ -855,6 +900,11 @@
         "charName": "Poppea",
         "surname": "Pecorina",
         "description": "Gains +1% Duration every level."
+      },
+      "CRISTINA": {
+        "description": "Starts with 1 extra level.",
+        "surname": "Davain",
+        "charName": "Christine"
       }
     }
   },

@@ -234,6 +234,11 @@
         "name": "曼纳加",
         "description": "进化出魔法之歌，可能会减慢敌人的速度。",
         "tips": "要求:疯狂骷髅"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -483,6 +488,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -714,6 +724,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Évolution du Pentagramme. Génère des gemmes supplémentaires et les rassemble toutes.",
+        "tips": "Requiert: Couronne."
       }
     }
   },
@@ -939,6 +954,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -1182,6 +1202,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -1407,6 +1432,11 @@
         "name": "마력의 결정체",
         "description": "마나의 노래의 강화형. 적을 느려지게 만듭니다.",
         "tips": "요구 사항: 미치광이의 두개골"
+      },
+      "SIRE": {
+        "name": "매혹의 달",
+        "description": "오망성의 강화형. 추가 보석을 생성하고 처치한 적의 보석을 흡수합니다.",
+        "tips": "요구 사항: 왕관."
       }
     }
   },
@@ -1638,6 +1668,11 @@
         "name": "Mannajja",
         "description": "Ewolucja Pieśni Many. Może spowalniać wrogów.",
         "tips": "Wymaga: Szaleńcza Czaszka."
+      },
+      "SIRE": {
+        "name": "Wspaniały Księżyc",
+        "description": "Ewolucja Pentagramu. Tworzy dodatkowe klejnoty i zbiera je wszystkie.",
+        "tips": "Wymaga: Korona."
       }
     }
   },
@@ -1869,6 +1904,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },
@@ -2100,6 +2140,11 @@
         "name": "Маннаджа",
         "description": "Улучшенная Песня Маны. Может замедлить врагов.",
         "tips": "Требует: Череп О'Маньяка"
+      },
+      "SIRE": {
+        "name": "Красивая Луна",
+        "description": "Улучшенная Пентаграмма. Создает доп. самоцветы и собирает их все.",
+        "tips": "Требует: Корона."
       }
     }
   },
@@ -2325,6 +2370,11 @@
         "name": "Mannajja",
         "description": "Evolved Song of Mana. Might slow enemies down.",
         "tips": "Requires: Skull O'Maniac"
+      },
+      "SIRE": {
+        "name": "Gorgeous Moon",
+        "description": "Evolved Pentagram. Generates extra gems and gathers all of them.",
+        "tips": "Requires: Crown."
       }
     }
   },

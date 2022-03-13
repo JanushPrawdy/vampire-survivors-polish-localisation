@@ -184,6 +184,18 @@
       },
       "FindMilkyWayMap": {
         "description": "找到小地图。"
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -383,6 +395,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -564,6 +588,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Faîtes monter le Pentagramme au niveau 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Déverrouillez le mode Hyper pour 3 étapes normales."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survivez 15 minutes à Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Faites évoluer le Pentagramme."
       }
     }
   },
@@ -739,6 +775,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -932,6 +980,18 @@
       },
       "FindMilkyWayMap": {
         "description": "天の川マップを見つける。"
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -1107,6 +1167,18 @@
       },
       "FindMilkyWayMap": {
         "description": "은하수 지도 발견하기."
+      },
+      "GetPentagramToLevel7": {
+        "description": "오망성을 레벨7까지 강화하기."
+      },
+      "Unlock3Hypers": {
+        "description": "1, 2, 3스테이지에서 하이퍼모드 해금하기."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "몰리세에서 15분간 생존하기."
+      },
+      "EvolvePentagram": {
+        "description": "오망성 강화시키기."
       }
     }
   },
@@ -1176,7 +1248,7 @@
         "description": "Znajdź Odkurzacz."
       },
       "FindAnOrologion": {
-        "description": "Znajdź Orologion."
+        "description": "Znajdź Zegarek."
       },
       "FindARosary": {
         "description": "Znajdź Różaniec."
@@ -1288,6 +1360,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Znajdź Mapę z Marsa."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Ulepsz Pentagram na 7 Poziom."
+      },
+      "Unlock3Hypers": {
+        "description": "Odblokuj tryb Hiper dla 3 etapów."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Ewoluuj Pentagram."
       }
     }
   },
@@ -1469,6 +1553,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
@@ -1650,6 +1746,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Найдите Карту Млечного Пути."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Получите Пентаграмму 7 Уровня."
+      },
+      "Unlock3Hypers": {
+        "description": "Разблокируйте режим Гипер для 3 обычных этапов."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Выживите 15 минут в Молизе."
+      },
+      "EvolvePentagram": {
+        "description": "Улучшите Пентаграмму."
       }
     }
   },
@@ -1825,6 +1933,18 @@
       },
       "FindMilkyWayMap": {
         "description": "Find the Milky Way Map."
+      },
+      "GetPentagramToLevel7": {
+        "description": "Get Pentagram to Level 7."
+      },
+      "Unlock3Hypers": {
+        "description": "Unlock Hyper mode for 3 normal stages."
+      },
+      "Survive15MinutesInMolise": {
+        "description": "Survive 15 minutes in Molise."
+      },
+      "EvolvePentagram": {
+        "description": "Evolve the Pentagram."
       }
     }
   },
